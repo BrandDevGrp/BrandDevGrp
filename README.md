@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--<img width="200" height="133" alt="image" src="https://github.com/user-attachments/assets/f90ce87d-aa35-4bd0-b2a8-5336fae2c906" />
+
 **BrandDevGrp/BrandDevGrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
